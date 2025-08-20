@@ -57,4 +57,4 @@ jobs:
           app-name: 'endnomophobia'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D008683F839439EACF9F30D96D26FF8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1591E3A914234550AE92E0D7DB16EF7E }}
